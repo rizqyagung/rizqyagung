@@ -1,7 +1,7 @@
 # Hi, I'm Rizqy Agung 👋
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=rzzqyagng&label=Profile%20views&color=0e75b6&style=flat" alt="rzzqyagng" />
+<img src="https://komarev.com/ghpvc/?username=rizqyagung&label=Profile%20views&color=0e75b6&style=flat" alt="rizqyagung" />
 </p>
 
 ### 🛠 Networking & Web Development
@@ -20,6 +20,6 @@ I am a Network Technician and Fullstack Developer focused on building robust inf
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### 📊 GitHub Stats
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=rzzqyagng&show_icons=true&theme=radical)
+![Stats GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=rizqyagung&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzzqyagng&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizqyagung&layout=compact&theme=radical)
