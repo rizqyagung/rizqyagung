@@ -3,20 +3,27 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=rizqyagung&label=Profile%20views&color=0e75b6&style=flat" alt="rizqyagung" />
 </p>
+
 ---
+
 ## 🏆 Achievements & Experiences
 - 🥇 **Lulusan Terbaik Sekolah & Lulusan Terbaik Jurusan TKJ** - SMKN 1 Seyegan (Mei 2026)
 - 🌐 **Competitor in LKS IT-NSA** (Information Network Systems Administration)
 - 🎛️ **School Representative** at Olimpiade Jaringan MikroTik 2025
+
 ---
+
 ## 👥 My Team & Projects
 I am a co-founder and developer at **ADD.Text**, a creative and technical development team alongside my teammates, Dhands and Debta.
+
 ### 🚀 Featured Project: KAJANESGA
 An integrated web-based alumni tracking system built for SMKN 1 Seyegan to map and monitor graduate distribution.
 - 🔗 **Live Demo:** [s.id/kajanesga](https://s.id/kajanesga)
 - 🛠️ **Tech Stack:** PHP, JavaScript, MySQL, HTML5, CSS3
 - ⚙️ **Infrastructure:** Hosted and managed under Ubuntu Linux environment
+
 ---
+
 ## 🛠️ Technical Skills
 
 ### **Networking & Infrastructure**
@@ -29,7 +36,9 @@ An integrated web-based alumni tracking system built for SMKN 1 Seyegan to map a
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ---
+
 ### 📊 GitHub Stats
 ![Stats GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=rizqyagung&show_icons=true&theme=radical)
 
