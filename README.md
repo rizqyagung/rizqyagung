@@ -14,14 +14,13 @@
 ---
 
 ## 👥 My Team & Projects
-I am a co-founder and developer at **ADD.Text**, a creative and technical development team alongside my teammates, Dhands and Debta.
+I am a co-founder and developer at **ADD.Text**, a creative and technical development team alongside my teammates, @Rampagerrr and @dullah-dot.
 
 ### 🚀 Featured Project: KAJANESGA
 An integrated web-based alumni tracking system built for SMKN 1 Seyegan to map and monitor graduate distribution.
 - 🔗 **Live Demo:** [s.id/kajanesga](https://s.id/kajanesga)
 - 🛠️ **Tech Stack:** PHP, JavaScript, MySQL, HTML5, CSS3
 - ⚙️ **Infrastructure:** Hosted and managed under Ubuntu Linux environment
-
 ---
 
 ## 🛠️ Technical Skills
