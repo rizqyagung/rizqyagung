@@ -27,7 +27,6 @@ An integrated web-based alumni tracking system built for SMKN 1 Seyegan to map a
 
 ### **Networking & Infrastructure**
 ![MikroTik](https://img.shields.io/badge/MikroTik-EE2228?style=for-the-badge&logo=mikrotik&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Proxmox VE](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
