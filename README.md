@@ -16,11 +16,19 @@
 ## 👥 My Team & Projects
 I am a co-founder and developer at **ADD.Text**, a creative and technical development team alongside my teammates, @Rampagerrr and @dullah-dot.
 
-### 🚀 Featured Project: KAJANESGA
-An integrated web-based alumni tracking system built for SMKN 1 Seyegan to map and monitor graduate distribution.
-- 🔗 **Live Demo:** [s.id/kajanesga](https://s.id/kajanesga)
-- 🛠️ **Tech Stack:** PHP, JavaScript, MySQL, HTML5, CSS3
-- ⚙️ **Infrastructure:** Hosted and managed under Ubuntu Linux environment
+### 🌟 Featured Key Projects
+* **KAJANESGA** — An integrated web-based alumni tracking system built for SMKN 1 Seyegan to map and monitor graduate distribution.
+  - 🔗 **Live Demo:** [s.id/kajanesga](https://s.id/kajanesga)
+  - 🛠️ **Tech Stack:** PHP, JavaScript, MySQL, HTML5, CSS3
+  - ⚙️ **Infrastructure:** Hosted and managed under Ubuntu Linux environment
+
+* **KKB BRI Jogja Platform** — Web-based digital solution tailored for KKB BRI operations.
+  - 🔗 **Live Demo:** [kkbbrijogja.my.id](https://kkbbrijogja.my.id/)
+  - 🛠️ **Tech Stack:** PHP, JavaScript, MySQL, HTML5, CSS3
+
+* **Geely Jogja System** — Digital system solution developed for Geely Jogja *(In Development)*.
+  - 🛠️ **Tech Stack:** PHP, JavaScript, MySQL, HTML5, CSS3
+
 ---
 
 ## 🛠️ Technical Skills
@@ -41,5 +49,6 @@ An integrated web-based alumni tracking system built for SMKN 1 Seyegan to map a
 ![Stats GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=rizqyagung&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizqyagung&layout=compact&theme=radical)
+
 ---
 <p align="center">Driven by networks, built with code. 🚀</p>
