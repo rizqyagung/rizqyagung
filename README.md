@@ -8,7 +8,7 @@
 
 ## 🏆 Achievements & Experiences
 - 🥇 **Lulusan Terbaik Sekolah & Lulusan Terbaik Jurusan TKJ** - SMKN 1 Seyegan (Mei 2026)
-- 🌐 **Competitor in LKS IT-NSA DIY** (Information Network Systems Administration)
+- 🌐 **Competitor in LKS DIY IT-NSA** (Information Network Systems Administration)
 - 🎛️ **School Representative** at Olimpiade Jaringan MikroTik Nasional 2025
 
 ---
