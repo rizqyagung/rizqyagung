@@ -26,7 +26,8 @@ I am a co-founder and developer at **ADD.Text**, a creative and technical develo
   - 🔗 **Live Demo:** [kkbbrijogja.my.id](https://kkbbrijogja.my.id/)
   - 🛠️ **Tech Stack:** PHP, JavaScript, MySQL, HTML5, CSS3
 
-* **Geely Jogja System** — Digital system solution developed for Geely Jogja *(In Development)*.
+* **Geely Jogja System** — Digital system solution developed for Geely Jogja.
+  - 🔗 **Live Demo:** [geelyjogja.id](https://geelyjogja.id/)
   - 🛠️ **Tech Stack:** PHP, JavaScript, MySQL, HTML5, CSS3
 
 ---
