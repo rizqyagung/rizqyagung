@@ -6,6 +6,13 @@
 
 ---
 
+## 💼 Professional Experience
+- 🛰️ **Network Engineer / Event Infrastructure Support** — *Telkom Indonesia*
+  - Designed, configured, and deployed network infrastructure for the official **BKN (Badan Kepegawaian Negara)** examination event at Hotel Sahid Raya Yogyakarta.
+  - Performed real-time network monitoring, standby technical support, and high-availability troubleshooting during live operations.
+
+---
+
 ## 🏆 Achievements & Experiences
 - 🥇 **Lulusan Terbaik Sekolah & Lulusan Terbaik Jurusan TKJ** - SMKN 1 Seyegan (Mei 2026)
 - 🌐 **Competitor in LKS DIY IT-NSA** (Information Network Systems Administration)
